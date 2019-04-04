@@ -59,13 +59,13 @@ body {
     padding: 20px;
 }
 
-/* This is to make the navbar appear when scrolling: */
+/* Makes the navbar appear when scrolling: */
 .navbar.scrolled {
     background: lightgray;
     transition: background 750ms;
 }
 
-/* This makes a change at a certain screen width: */
+/* Makes a change at a certain screen width: */
 @media (max-width: 1200px) {
     #welcome h1 {
         font-weight: 100;
